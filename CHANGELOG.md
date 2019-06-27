@@ -1,3 +1,10 @@
+## [0.6.4](https://github.com/5app/eslint-config-5app/compare/v0.6.3...v0.6.4) (2019-06-27)
+
+
+### Bug Fixes
+
+* **package:** update eslint-plugin-jsdoc to version 9.0.1 ([9cd6687](https://github.com/5app/eslint-config-5app/commit/9cd6687)), closes [#14](https://github.com/5app/eslint-config-5app/issues/14)
+
 ## [0.6.3](https://github.com/5app/eslint-config-5app/compare/v0.6.2...v0.6.3) (2019-06-11)
 
 
