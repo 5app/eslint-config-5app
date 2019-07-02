@@ -1,5 +1,5 @@
 {
-	"rangeStrategy": "replace",
+  "rangeStrategy": "auto",
   "extends": [
     "config:base"
   ]
