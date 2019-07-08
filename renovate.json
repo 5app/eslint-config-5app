@@ -1,5 +1,6 @@
 {
-  "rangeStrategy": "replace",
+  "automerge": true,
+	"rangeStrategy": "replace",
   "extends": [
     "config:base"
   ]
