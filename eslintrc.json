@@ -13,7 +13,8 @@
 	],
 	"extends": [
 		"eslint:recommended",
-		"plugin:you-dont-need-lodash-underscore/all"
+		"plugin:you-dont-need-lodash-underscore/all",
+		"plugin:you-dont-need-momentjs/recommended"
 	],
 	"rules": {
 		"arrow-spacing": [2, {"before": true, "after": true}],
