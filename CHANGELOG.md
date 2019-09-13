@@ -1,3 +1,10 @@
+# [0.7.0](https://github.com/5app/eslint-config-5app/compare/v0.6.8...v0.7.0) (2019-09-13)
+
+
+### Features
+
+* **rules:** Add you-dont-need-momentjs/recommended ([42fca53](https://github.com/5app/eslint-config-5app/commit/42fca53))
+
 ## [0.6.8](https://github.com/5app/eslint-config-5app/compare/v0.6.7...v0.6.8) (2019-07-08)
 
 
