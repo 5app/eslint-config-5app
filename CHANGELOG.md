@@ -1,3 +1,10 @@
+## [0.7.4](https://github.com/5app/eslint-config-5app/compare/v0.7.3...v0.7.4) (2019-10-11)
+
+
+### Bug Fixes
+
+* **ci:** breaking builds on slint-plugin-you-dont-need-lodash-underscore@6.7.1 ([0c814aa](https://github.com/5app/eslint-config-5app/commit/0c814aaa18ae50cddbc3aae09b76f1bf01fcaf34))
+
 ## [0.7.3](https://github.com/5app/eslint-config-5app/compare/v0.7.2...v0.7.3) (2019-10-11)
 
 
