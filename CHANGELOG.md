@@ -1,3 +1,10 @@
+## [0.7.2](https://github.com/5app/eslint-config-5app/compare/v0.7.1...v0.7.2) (2019-10-09)
+
+
+### Bug Fixes
+
+* **ci:** breaking builds on Node12... hopeful fix ([6df1a0f](https://github.com/5app/eslint-config-5app/commit/6df1a0f526e252fbfa66d65dd71ab30b2073c0ee))
+
 ## [0.7.1](https://github.com/5app/eslint-config-5app/compare/v0.7.0...v0.7.1) (2019-09-13)
 
 
