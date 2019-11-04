@@ -3,7 +3,9 @@ version: 2
 defaults: &defaults
   working_directory: ~/repo
   docker:
-    - image: circleci/node:8.16.0
+    - image: circleci/node:lts
+cache_key: &cache_key
+  key: dependency-cache-lts-{{ checksum "package.json" }}
 
 jobs:
   checkout_code:
@@ -20,12 +22,15 @@ jobs:
       - attach_workspace:
           at: ~/repo
       - restore_cache:
-          key: dependency-cache-{{ checksum "package.json" }}
+          <<: *cache_key
       - run:
           name: install dependencies with npm
           command: npm install
+      - run:
+          name: rebuild dependencies with npm - incase node version has changed
+          command: npm rebuild
       - save_cache:
-          key: dependency-cache-{{ checksum "package.json" }}
+          <<: *cache_key
           paths:
             - ./node_modules
       - run:
