@@ -73,6 +73,7 @@
 		"no-spaced-func": 2,
 		"no-throw-literal": 2,
 		"no-trailing-spaces": 2,
+		"no-use-before-define": [2, {"functions": false}],
 		"no-useless-call": 2,
 		"no-useless-return": 2,
 		"no-undef": 2,
