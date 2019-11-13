@@ -1,3 +1,10 @@
+# [0.8.0](https://github.com/5app/eslint-config-5app/compare/v0.7.10...v0.8.0) (2019-11-13)
+
+
+### Features
+
+* **rule:** no-use-before-define ([7b7a383](https://github.com/5app/eslint-config-5app/commit/7b7a3835704e6f3dead913878d2c41cfa3fc95e5))
+
 ## [0.7.10](https://github.com/5app/eslint-config-5app/compare/v0.7.9...v0.7.10) (2019-11-13)
 
 
