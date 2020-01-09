@@ -33,7 +33,7 @@
     "chai": "^4.2.0",
     "eslint": "^6.0.0",
     "mocha": "^7.0.0",
-    "semantic-release": "^15.13.24"
+    "semantic-release": "^16.0.0"
   },
   "peerDependencies": {
     "eslint": ">=5.0.0"
