@@ -1,3 +1,10 @@
+## [0.8.6](https://github.com/5app/eslint-config-5app/compare/v0.8.5...v0.8.6) (2020-03-04)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-you-dont-need-lodash-underscore to v6.10.0 ([d07378a](https://github.com/5app/eslint-config-5app/commit/d07378a367e18ce700f9ed0e853227da134b28f1))
+
 ## [0.8.5](https://github.com/5app/eslint-config-5app/compare/v0.8.4...v0.8.5) (2020-03-02)
 
 
