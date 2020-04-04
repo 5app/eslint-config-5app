@@ -1,3 +1,11 @@
+# [0.9.0](https://github.com/5app/eslint-config-5app/compare/v0.8.6...v0.9.0) (2020-04-04)
+
+
+### Features
+
+* **rules:** Adding new rules ([4e87e5e](https://github.com/5app/eslint-config-5app/commit/4e87e5ed925faeb0bec9439a8011beba3dd06b98))
+* **rules:** no-useless-rename no-param-reassign, BREAKING CHANGE ([71c0511](https://github.com/5app/eslint-config-5app/commit/71c051178d3a311de7a0d9c5821a464bcb271dd7))
+
 ## [0.8.6](https://github.com/5app/eslint-config-5app/compare/v0.8.5...v0.8.6) (2020-03-04)
 
 
