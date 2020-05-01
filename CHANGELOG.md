@@ -1,3 +1,10 @@
+# [0.10.0](https://github.com/5app/eslint-config-5app/compare/v0.9.2...v0.10.0) (2020-05-01)
+
+
+### Features
+
+* Disallow assigning values on return ([#66](https://github.com/5app/eslint-config-5app/issues/66)) ([168568e](https://github.com/5app/eslint-config-5app/commit/168568ea17591f1c29ac45ed2b23d6039ff0dd8b))
+
 ## [0.9.2](https://github.com/5app/eslint-config-5app/compare/v0.9.1...v0.9.2) (2020-04-20)
 
 
