@@ -6,7 +6,9 @@
   "scripts": {
     "semantic-release": "semantic-release",
     "test": "mocha test/validate.js",
-    "lint": "eslint ./ --config eslintrc.json"
+    "lint": "eslint ./ --config eslintrc.json",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -62,6 +64,8 @@
   "dependencies": {
     "eslint-plugin-jsdoc": "^24.0.0",
     "eslint-plugin-you-dont-need-lodash-underscore": "6.10.0",
-    "eslint-plugin-you-dont-need-momentjs": "^1.5.0"
-  }
+    "eslint-plugin-you-dont-need-momentjs": "^1.5.0",
+    "snyk": "^1.316.1"
+  },
+  "snyk": true
 }
