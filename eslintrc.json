@@ -28,6 +28,7 @@
 		"comma-spacing": [2, {"before": false, "after": true}],
 		"dot-notation": 2,
 		"dot-location": [2, "property"],
+		"eol-last": 2,
 		"eqeqeq": 2,
 		"func-call-spacing": 2,
 		"indent": [2, "tab", {"SwitchCase": 1}],
