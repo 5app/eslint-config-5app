@@ -1,3 +1,10 @@
+# [0.11.0](https://github.com/5app/eslint-config-5app/compare/v0.10.3...v0.11.0) (2020-06-03)
+
+
+### Features
+
+* **rule:** eol-last ([a996e7d](https://github.com/5app/eslint-config-5app/commit/a996e7da754cce9febce3a187e3686f76508ffa8))
+
 ## [0.10.3](https://github.com/5app/eslint-config-5app/compare/v0.10.2...v0.10.3) (2020-06-02)
 
 
