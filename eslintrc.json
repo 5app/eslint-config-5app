@@ -5,7 +5,7 @@
 		"node": true
 	},
 	"parserOptions": {
-		"ecmaVersion": 2018,
+		"ecmaVersion": 2020,
 		"sourceType": "module"
 	},
 	"plugins": [
@@ -87,7 +87,7 @@
 		"no-unexpected-multiline": 2,
 		"no-unneeded-ternary": 2,
 		"no-unreachable": 2,
-		"no-unused-vars": 2,
+		"no-unused-vars": [2, {"caughtErrors": "all", "ignoreRestSiblings": true}],
 		"no-var": 2,
 		"object-curly-spacing": [2, "never"],
 		"object-shorthand": 2,
