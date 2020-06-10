@@ -1,3 +1,10 @@
+# [0.12.0](https://github.com/5app/eslint-config-5app/compare/v0.11.0...v0.12.0) (2020-06-10)
+
+
+### Features
+
+* **rules:** no-unused-vars use optional catch binding ([e17fb3e](https://github.com/5app/eslint-config-5app/commit/e17fb3ef37176e9bbe4a6e75e73fb346dbb554d0))
+
 # [0.11.0](https://github.com/5app/eslint-config-5app/compare/v0.10.3...v0.11.0) (2020-06-03)
 
 
