@@ -1,3 +1,10 @@
+## [0.12.1](https://github.com/5app/eslint-config-5app/compare/v0.12.0...v0.12.1) (2020-06-21)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-jsdoc to v28 ([cdad549](https://github.com/5app/eslint-config-5app/commit/cdad54961c3a03092b28b59ac2e6d581c382ecf6))
+
 # [0.12.0](https://github.com/5app/eslint-config-5app/compare/v0.11.0...v0.12.0) (2020-06-10)
 
 
