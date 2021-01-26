@@ -1,3 +1,31 @@
+## [0.12.3](https://github.com/5app/eslint-config-5app/compare/v0.12.2...v0.12.3) (2020-07-19)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-jsdoc to v30 ([e5a6d70](https://github.com/5app/eslint-config-5app/commit/e5a6d70bf605272aba025b20a595fea39f2472fa))
+
+## [0.12.2](https://github.com/5app/eslint-config-5app/compare/v0.12.1...v0.12.2) (2020-07-08)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-jsdoc to v29 ([b4811f8](https://github.com/5app/eslint-config-5app/commit/b4811f8455feb69892d8a418985e79028f100d77))
+
+## [0.12.1](https://github.com/5app/eslint-config-5app/compare/v0.12.0...v0.12.1) (2020-06-21)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-jsdoc to v28 ([cdad549](https://github.com/5app/eslint-config-5app/commit/cdad54961c3a03092b28b59ac2e6d581c382ecf6))
+
+# [0.12.0](https://github.com/5app/eslint-config-5app/compare/v0.11.0...v0.12.0) (2020-06-10)
+
+
+### Features
+
+* **rules:** no-unused-vars use optional catch binding ([e17fb3e](https://github.com/5app/eslint-config-5app/commit/e17fb3ef37176e9bbe4a6e75e73fb346dbb554d0))
+
 # [0.11.0](https://github.com/5app/eslint-config-5app/compare/v0.10.3...v0.11.0) (2020-06-03)
 
 

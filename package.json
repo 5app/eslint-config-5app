@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-5app",
-  "version": "0.11.0",
+  "version": "0.12.3",
   "description": "Javascript Style guide for 5app",
   "main": "index.js",
   "scripts": {
@@ -33,7 +33,6 @@
     "@semantic-release/git": "^9.0.0",
     "chai": "^4.2.0",
     "eslint": "^7.18.0",
-    "eslint-plugin-jsdoc": "^31.3.3",
     "mocha": "^8.2.1",
     "semantic-release": "^17.3.7"
   },
@@ -62,6 +61,7 @@
     ]
   },
   "dependencies": {
+    "eslint-plugin-jsdoc": "^31.0.0",
     "eslint-plugin-you-dont-need-lodash-underscore": "6.10.0",
     "eslint-plugin-you-dont-need-momentjs": "^1.6.0"
   }
