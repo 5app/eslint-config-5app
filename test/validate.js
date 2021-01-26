@@ -1,13 +1,12 @@
 /* eslint-env mocha */
-const eslint = require('eslint');
-const expect = require('chai').expect;
+const {ESLint} = require('eslint');
+const {expect} = require('chai');
 
-it('load config in eslint to validate all rule syntax is correct', () => {
-	const CLIEngine = eslint.CLIEngine;
+it('load config in eslint to validate all rule syntax is correct', async () => {
 
-	const cli = new CLIEngine({
+	const cli = new ESLint({
 		useEslintrc: false,
-		configFile: 'eslintrc.json'
+		overrideConfigFile: 'eslintrc.json'
 	});
 
 	const text = `
@@ -15,6 +14,6 @@ const foo = 1;
 const bar = function() {};
 bar(foo);
 `;
-
-	expect(cli.executeOnText(text).errorCount).to.eql(0);
+	const [{errorCount}] = await cli.lintText(text);
+	expect(errorCount).to.eql(0);
 });

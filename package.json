@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "semantic-release": "semantic-release",
-    "test": "mocha test/validate.js",
-    "lint": "eslint ./ --config eslintrc.json"
+    "lint": "eslint ./ --config eslintrc.json",
+    "spec": "mocha test/validate.js",
+    "test": "npm run lint && npm run spec"
   },
   "repository": {
     "type": "git",
@@ -31,12 +32,13 @@
     "@semantic-release/changelog": "^5.0.0",
     "@semantic-release/git": "^9.0.0",
     "chai": "^4.2.0",
-    "eslint": "^7.0.0",
-    "mocha": "^7.0.0",
-    "semantic-release": "^17.0.0"
+    "eslint": "^7.18.0",
+    "eslint-plugin-jsdoc": "^31.3.3",
+    "mocha": "^8.2.1",
+    "semantic-release": "^17.3.7"
   },
   "peerDependencies": {
-    "eslint": ">=6.0.0"
+    "eslint": ">=7.15.0"
   },
   "release": {
     "branch": "master",
@@ -60,8 +62,7 @@
     ]
   },
   "dependencies": {
-    "eslint-plugin-jsdoc": "^27.0.0",
     "eslint-plugin-you-dont-need-lodash-underscore": "6.10.0",
-    "eslint-plugin-you-dont-need-momentjs": "^1.5.0"
+    "eslint-plugin-you-dont-need-momentjs": "^1.6.0"
   }
 }
