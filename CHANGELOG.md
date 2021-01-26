@@ -1,3 +1,10 @@
+# [0.13.0](https://github.com/5app/eslint-config-5app/compare/v0.12.4...v0.13.0) (2021-01-26)
+
+
+### Features
+
+* update eslint@7.15 + no-unsafe-optional-chaining ([9b73007](https://github.com/5app/eslint-config-5app/commit/9b73007e56aec62a084bcd7a4d09fe8f3e5ffe4b))
+
 ## [0.12.4](https://github.com/5app/eslint-config-5app/compare/v0.12.3...v0.12.4) (2021-01-26)
 
 
