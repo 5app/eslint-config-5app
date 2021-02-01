@@ -1,3 +1,10 @@
+# [0.14.0](https://github.com/5app/eslint-config-5app/compare/v0.13.0...v0.14.0) (2021-02-01)
+
+
+### Features
+
+* **renovate:** ensure sync eslint peerDependency ([f03b82b](https://github.com/5app/eslint-config-5app/commit/f03b82bcc1cd1854a121d73c4f16d165877e3690))
+
 # [0.13.0](https://github.com/5app/eslint-config-5app/compare/v0.12.4...v0.13.0) (2021-01-26)
 
 
