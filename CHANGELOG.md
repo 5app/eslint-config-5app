@@ -1,3 +1,10 @@
+## [0.14.7](https://github.com/5app/eslint-config-5app/compare/v0.14.6...v0.14.7) (2021-06-10)
+
+
+### Bug Fixes
+
+* **deps:** npm update ([977024a](https://github.com/5app/eslint-config-5app/commit/977024a9690143f920804d92cd6cfc70fc0602f7))
+
 ## [0.14.6](https://github.com/5app/eslint-config-5app/compare/v0.14.5...v0.14.6) (2021-05-24)
 
 
