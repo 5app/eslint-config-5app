@@ -13,8 +13,7 @@
 	],
 	"extends": [
 		"eslint:recommended",
-		"plugin:you-dont-need-lodash-underscore/all",
-		"plugin:you-dont-need-momentjs/recommended"
+		"plugin:you-dont-need-lodash-underscore/all"
 	],
 	"rules": {
 		"arrow-spacing": [2, {"before": true, "after": true}],
@@ -96,6 +95,7 @@
 		"prefer-arrow-callback": 2,
 		"prefer-rest-params": 2,
 		"prefer-const": 2,
+		"prefer-object-spread": 2,
 		"prefer-spread": 2,
 		"prefer-template": 2,
 		"quote-props": [2, "as-needed"],
