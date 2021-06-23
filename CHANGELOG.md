@@ -1,3 +1,15 @@
+# [0.15.0](https://github.com/5app/eslint-config-5app/compare/v0.14.7...v0.15.0) (2021-06-23)
+
+
+### Bug Fixes
+
+* **deps:** rm npm7 incompatible you-dont-need-moment ([476165e](https://github.com/5app/eslint-config-5app/commit/476165e7fc237882c84af8f60e494db9bae21649))
+
+
+### Features
+
+* **rule:** prefer-object-spread ([60ce2c8](https://github.com/5app/eslint-config-5app/commit/60ce2c8aad1642d7e480a770430d9d43783c9a86))
+
 ## [0.14.7](https://github.com/5app/eslint-config-5app/compare/v0.14.6...v0.14.7) (2021-06-10)
 
 
