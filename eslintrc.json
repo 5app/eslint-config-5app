@@ -34,6 +34,7 @@
 		"key-spacing": [2, {"beforeColon": false, "afterColon": true}],
 		"keyword-spacing": [2, { "before": true }],
 		"linebreak-style": [2, "unix"],
+		"max-params": [2, {"max": 3}],
 		"no-alert": 2,
 		"no-await-in-loop": 2,
 		"no-caller": 2,
