@@ -1,3 +1,10 @@
+# [0.16.0](https://github.com/5app/eslint-config-5app/compare/v0.15.1...v0.16.0) (2021-09-27)
+
+
+### Features
+
+* **max-params:** new rule max-params=3 (default) ([89bcd97](https://github.com/5app/eslint-config-5app/commit/89bcd9789d490e87804b2c1515d2d46887dcad37))
+
 ## [0.15.1](https://github.com/5app/eslint-config-5app/compare/v0.15.0...v0.15.1) (2021-07-25)
 
 
