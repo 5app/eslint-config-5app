@@ -1,3 +1,10 @@
+## [0.16.1](https://github.com/5app/eslint-config-5app/compare/v0.16.0...v0.16.1) (2021-10-11)
+
+
+### Bug Fixes
+
+* **deps:** eslint peer dependency version, simplify, sem-release config ([4e93cff](https://github.com/5app/eslint-config-5app/commit/4e93cffee38f7c1ae756c8936c03ea5234d4db34))
+
 # [0.16.0](https://github.com/5app/eslint-config-5app/compare/v0.15.1...v0.16.0) (2021-09-27)
 
 
