@@ -1,3 +1,10 @@
+## [0.16.2](https://github.com/5app/eslint-config-5app/compare/v0.16.1...v0.16.2) (2021-10-23)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-jsdoc to v37 ([1f9e6ce](https://github.com/5app/eslint-config-5app/commit/1f9e6ceca4a32bfee507f5d55cf538edb03f5a5b))
+
 ## [0.16.1](https://github.com/5app/eslint-config-5app/compare/v0.16.0...v0.16.1) (2021-10-11)
 
 
