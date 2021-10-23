@@ -53,7 +53,7 @@
     ]
   },
   "dependencies": {
-    "eslint-plugin-jsdoc": "^36.0.0",
+    "eslint-plugin-jsdoc": "^37.0.0",
     "eslint-plugin-you-dont-need-lodash-underscore": "6.12.0"
   }
 }
