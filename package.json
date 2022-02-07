@@ -4,7 +4,6 @@
   "description": "Javascript Style guide for 5app",
   "main": "index.js",
   "scripts": {
-    "semantic-release": "semantic-release",
     "lint": "eslint ./ --config eslintrc.json",
     "spec": "mocha test/validate.js",
     "test": "npm run lint && npm run spec"
@@ -29,28 +28,17 @@
   },
   "homepage": "https://github.com/5app/eslint-config-5app#readme",
   "devDependencies": {
-    "@semantic-release/changelog": "^6.0.0",
-    "@semantic-release/git": "^10.0.0",
+    "@5app/semantic-release-config": "^1.0.0",
     "chai": "^4.3.4",
     "eslint": "^8.0.0",
     "mocha": "^9.0.1",
-    "semantic-release": "^18.0.0"
+    "semantic-release": "^19.0.2"
   },
   "peerDependencies": {
     "eslint": ">=7.15.0"
   },
   "release": {
-    "branches": [
-      "main"
-    ],
-    "plugins": [
-      "@semantic-release/commit-analyzer",
-      "@semantic-release/release-notes-generator",
-      "@semantic-release/changelog",
-      "@semantic-release/npm",
-      "@semantic-release/git",
-      "@semantic-release/github"
-    ]
+    "extends": "@5app/semantic-release-config"
   },
   "dependencies": {
     "eslint-plugin-jsdoc": "^37.0.0",
