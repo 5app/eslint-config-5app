@@ -41,7 +41,7 @@
     "extends": "@5app/semantic-release-config"
   },
   "dependencies": {
-    "eslint-plugin-jsdoc": "^38.0.0",
+    "eslint-plugin-jsdoc": "^39.0.0",
     "eslint-plugin-you-dont-need-lodash-underscore": "6.12.0"
   }
 }
