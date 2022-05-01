@@ -31,7 +31,7 @@
     "@5app/semantic-release-config": "^1.0.0",
     "chai": "^4.3.4",
     "eslint": "^8.0.0",
-    "mocha": "^9.0.1",
+    "mocha": "^10.0.0",
     "semantic-release": "^19.0.2"
   },
   "peerDependencies": {
