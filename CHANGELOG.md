@@ -1,3 +1,10 @@
+# [0.17.0](https://github.com/5app/eslint-config-5app/compare/v0.16.4...v0.17.0) (2023-02-02)
+
+
+### Features
+
+* **parserOptions:** update to 2023 ([e91aad5](https://github.com/5app/eslint-config-5app/commit/e91aad5fb39f48fc4ff3eca84686baaac1ae4091))
+
 ## [0.16.4](https://github.com/5app/eslint-config-5app/compare/v0.16.3...v0.16.4) (2022-04-08)
 
 
