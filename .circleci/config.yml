@@ -1,24 +1,12 @@
 version: 2.1
 
 orbs:
-  node: circleci/node@4.1
-
-executors:
-  default:
-    working_directory: ~/repo
-    docker:
-      - image: cimg/node:lts
+  node: circleci/node@5.1
 
 jobs:
-  test:
-    executor: default
-    steps:
-      - checkout
-      - node/install-packages
-      - run: npm test
-
   release:
-    executor: default
+    docker:
+      - image: cimg/node:lts
     steps:
       - checkout
       - node/install-packages
@@ -27,8 +15,8 @@ jobs:
 workflows:
   build:
     jobs:
-      - test
+      - node/test
       - release:
           context: org-global
           requires:
-            - test
+            - node/test
