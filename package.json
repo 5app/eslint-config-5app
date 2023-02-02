@@ -28,11 +28,11 @@
   },
   "homepage": "https://github.com/5app/eslint-config-5app#readme",
   "devDependencies": {
-    "@5app/semantic-release-config": "^1.0.0",
-    "chai": "^4.3.4",
-    "eslint": "^8.0.0",
-    "mocha": "^10.0.0",
-    "semantic-release": "^19.0.2"
+    "@5app/semantic-release-config": "^1.1.0",
+    "chai": "^4.3.7",
+    "eslint": "^8.33.0",
+    "mocha": "^10.2.0",
+    "semantic-release": "^20.1.0"
   },
   "peerDependencies": {
     "eslint": ">=7.15.0"
@@ -41,7 +41,7 @@
     "extends": "@5app/semantic-release-config"
   },
   "dependencies": {
-    "eslint-plugin-jsdoc": "^39.0.0",
+    "eslint-plugin-jsdoc": "^39.7.5",
     "eslint-plugin-you-dont-need-lodash-underscore": "6.12.0"
   }
 }
