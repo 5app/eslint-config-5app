@@ -30,7 +30,7 @@
   "devDependencies": {
     "@5app/semantic-release-config": "^1.1.0",
     "chai": "^4.3.7",
-    "eslint": "^8.33.0",
+    "eslint": "^8.34.0",
     "mocha": "^10.2.0",
     "semantic-release": "^20.1.0"
   },
@@ -41,7 +41,10 @@
     "extends": "@5app/semantic-release-config"
   },
   "dependencies": {
+    "eslint-plugin-import": "^2.27.5",
     "eslint-plugin-jsdoc": "^40.0.0",
+    "eslint-plugin-mocha": "^10.1.0",
+    "eslint-plugin-unicorn": "^45.0.2",
     "eslint-plugin-you-dont-need-lodash-underscore": "6.12.0"
   }
 }

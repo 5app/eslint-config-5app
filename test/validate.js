@@ -11,7 +11,7 @@ it('load config in eslint to validate all rule syntax is correct', async () => {
 
 	const text = `
 const foo = 1;
-const bar = function() {};
+function bar() {}
 bar(foo);
 `;
 	const [{errorCount}] = await cli.lintText(text);
