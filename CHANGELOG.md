@@ -1,3 +1,10 @@
+# [0.19.0](https://github.com/5app/eslint-config-5app/compare/v0.18.0...v0.19.0) (2023-02-22)
+
+
+### Features
+
+* **parseOptions:** ecmaVersion=latest ([a7f4874](https://github.com/5app/eslint-config-5app/commit/a7f4874e271a65d28ffd64de1e8c2641fd74b44a))
+
 # [0.18.0](https://github.com/5app/eslint-config-5app/compare/v0.17.0...v0.18.0) (2023-02-21)
 
 
