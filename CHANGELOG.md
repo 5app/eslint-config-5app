@@ -1,3 +1,15 @@
+# [0.18.0](https://github.com/5app/eslint-config-5app/compare/v0.17.0...v0.18.0) (2023-02-21)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-jsdoc to v40 ([7baf971](https://github.com/5app/eslint-config-5app/commit/7baf9714ee72687ad0c36b1848262d7cf9cf5f22))
+
+
+### Features
+
+* **plugins:** combine plugin rules ([74a6ff1](https://github.com/5app/eslint-config-5app/commit/74a6ff11c90117deef3957e676daecbf5c10daa7))
+
 # [0.17.0](https://github.com/5app/eslint-config-5app/compare/v0.16.4...v0.17.0) (2023-02-02)
 
 
