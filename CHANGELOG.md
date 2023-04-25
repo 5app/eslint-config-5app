@@ -1,3 +1,12 @@
+## [0.19.1](https://github.com/5app/eslint-config-5app/compare/v0.19.0...v0.19.1) (2023-04-25)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-jsdoc to v41 ([d2bc612](https://github.com/5app/eslint-config-5app/commit/d2bc612b809e1e24f281c213e84b2f02f75bd28b))
+* **deps:** update dependency eslint-plugin-jsdoc to v43 ([b88e59a](https://github.com/5app/eslint-config-5app/commit/b88e59a32e10a3916bf321919ea336ce8c20cf37))
+* **deps:** update dependency eslint-plugin-unicorn to v46 ([b1ff015](https://github.com/5app/eslint-config-5app/commit/b1ff01502ecee80a3947a5464bdfaccf0ed2e354))
+
 # [0.19.0](https://github.com/5app/eslint-config-5app/compare/v0.18.0...v0.19.0) (2023-02-22)
 
 
