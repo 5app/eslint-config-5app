@@ -29,7 +29,7 @@
   "homepage": "https://github.com/5app/eslint-config-5app#readme",
   "devDependencies": {
     "@5app/semantic-release-config": "^1.1.0",
-    "chai": "^4.3.7",
+    "chai": "^5.0.0",
     "eslint": "^8.34.0",
     "mocha": "^10.2.0",
     "semantic-release": "^21.0.0"
