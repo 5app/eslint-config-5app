@@ -45,6 +45,6 @@
     "eslint-plugin-jsdoc": "^46.0.0",
     "eslint-plugin-mocha": "^10.1.0",
     "eslint-plugin-unicorn": "^47.0.0",
-    "eslint-plugin-you-dont-need-lodash-underscore": "6.12.0"
+    "eslint-plugin-you-dont-need-lodash-underscore": "6.14.0"
   }
 }
