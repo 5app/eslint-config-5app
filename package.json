@@ -30,7 +30,7 @@
   "devDependencies": {
     "@5app/semantic-release-config": "^1.1.0",
     "chai": "^4.3.7",
-    "eslint": "^8.34.0",
+    "eslint": "^9.0.0",
     "mocha": "^10.2.0",
     "semantic-release": "^21.0.0"
   },
