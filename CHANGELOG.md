@@ -1,3 +1,23 @@
+# [1.0.0](https://github.com/5app/eslint-config-5app/compare/v0.19.1...v1.0.0) (2024-04-24)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-jsdoc to v44 ([5723a61](https://github.com/5app/eslint-config-5app/commit/5723a611b00e70a37c84513eb2b0854024476d4f))
+* **deps:** update dependency eslint-plugin-jsdoc to v45 ([d69bf3c](https://github.com/5app/eslint-config-5app/commit/d69bf3c6a6a4de0d8ea5b9609c763543e254891f))
+* **deps:** update dependency eslint-plugin-jsdoc to v46 ([00d1147](https://github.com/5app/eslint-config-5app/commit/00d11475210d31a64ade227c2aaa3a35fa971030))
+* **deps:** update dependency eslint-plugin-unicorn to v47 ([8c3be67](https://github.com/5app/eslint-config-5app/commit/8c3be674ac4124f4821cd1057bcc0ec4fa40f67d))
+
+
+### Features
+
+* **flat-config:** support eslint's v9 flat-config ([#142](https://github.com/5app/eslint-config-5app/issues/142)) ([339fb07](https://github.com/5app/eslint-config-5app/commit/339fb07ed2cceb2aaf3706e0c10dfb89c1a2f9e1))
+
+
+### BREAKING CHANGES
+
+* **flat-config:** there is no support for legacy eslintrc structure eslint<=8
+
 ## [0.19.1](https://github.com/5app/eslint-config-5app/compare/v0.19.0...v0.19.1) (2023-04-25)
 
 
