@@ -34,7 +34,7 @@
     "chai": "^5.1.0",
     "eslint": "^9.1.1",
     "mocha": "^10.4.0",
-    "semantic-release": "^23.0.8"
+    "semantic-release": "^24.0.0"
   },
   "release": {
     "extends": "@5app/semantic-release-config"
