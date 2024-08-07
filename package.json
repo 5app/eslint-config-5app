@@ -40,7 +40,7 @@
     "extends": "@5app/semantic-release-config"
   },
   "dependencies": {
-    "eslint-plugin-jsdoc": "^48.2.3",
+    "eslint-plugin-jsdoc": "^49.0.0",
     "eslint-plugin-mocha": "^10.4.3",
     "eslint-plugin-unicorn": "^52.0.0"
   }
